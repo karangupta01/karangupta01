@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Karan Gupta
+# Hi 👋, I'm Karan
 
 I'm a full-stack developer who enjoys building clean, efficient, and user-focused applications. I love working across the stack and constantly exploring better ways to solve real-world problems with code.
 
