@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a full-stack developer who enjoys building clean, efficient, and user-focused applications. I love working across the stack and constantly exploring better ways to solve real-world problems with code.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?karangupta01&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=karangupta01&style=flat-square)
 ## 👨‍💻 About Me
 
 - 🔭 Currently building full-stack projects and experimenting with AI ideas  
